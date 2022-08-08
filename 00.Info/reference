@@ -1,0 +1,27 @@
+1. 교재추천
+
+1) 혼자 공부하는 머신러닝 딥러닝 
+박해선 유튜브 
+인프런: 핸즈온 머신러닝 2판 강의 무료 제공 
+
+2) 파이썬 머신러닝 완벽 가이드 
+
+3) 시험 정리 깃허브
+https://github.com/bluemumin/ADP_certificate_preperation
+
+베이스 라인코드로 여기 두 레포 추천 + 추가적으로 통계만 진짜 제대로 준비하면 충분
+https://github.com/t-ahere/ADP
+https://github.com/H2O-500ml/ADP
+
+2. 통계파트 
+https://github.com/H2O-500ml/ADP
+
+유튭 빅공남 통계
+https://wikidocs.net/book/7982
+https://github.com/Kim-YongHo/Statistics
+
+
+3. 머신러닝 파트
+머신러닝 파트는 크게 시계열분석과 차원축소, 군집분석 등
+분류, 회귀 모델의 경우에는 각 모델의 장단점을 서술 할 수 있어야 함
+문제에서 제시하는 상황에서 왜 그러한 모델을 선택했는지도 서술하실수 있어야합니당
